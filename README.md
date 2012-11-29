@@ -1,4 +1,2 @@
-caja-fuerte
+caja
 ===========
-
-caja fuerte desarrollada en vhdl 
